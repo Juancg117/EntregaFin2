@@ -1,0 +1,14 @@
+numeros de los objetos asignados en las matrices de los niveles:
+
+1- bloque gris(estatico)
+2- bloque escalera
+3- bloque pinchos
+4- llaves
+5- bloque gris(mov.rectilineo)
+6- bloque gris(mov.circular)
+7- bloque puerta
+8- cañones
+9- personaje
+a(49)- pendulo
+b(50)- monedas
+c(51)- vida
